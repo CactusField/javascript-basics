@@ -37,7 +37,7 @@ let devMountainGoal = null;
 
 //Code here
 function greeting(name){
-  return `"Hello", + ${name}`
+  return "Hello", + name;
 };
 greeting();
 //////////////////PROBLEM 7////////////////////
